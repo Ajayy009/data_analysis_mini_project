@@ -1,0 +1,201 @@
+Spice_Name,Region,Season,Rainfall_mm,Temperature_C,Demand_Index,Export_Tons,Price_per_kg
+Cumin,Andhra,Winter,470,29,104,2,289
+Pepper,Tamil Nadu,Summer,357,41,186,7,221
+Coriander,Telangana,Rainy,199,33,180,18,145
+Pepper,Telangana,Summer,200,16,80,27,163
+Pepper,Karnataka,Summer,378,34,89,34,229
+Turmeric,Tamil Nadu,Rainy,418,39,85,27,409
+Coriander,Kerala,Summer,321,20,55,17,462
+Coriander,Tamil Nadu,Winter,426,15,115,43,292
+Coriander,Karnataka,Summer,431,38,124,44,406
+Pepper,Karnataka,Rainy,126,29,53,24,280
+Cumin,Tamil Nadu,Rainy,143,42,128,25,391
+Coriander,Karnataka,Rainy,67,44,183,7,470
+Pepper,Tamil Nadu,Summer,53,37,167,6,381
+Turmeric,Andhra,Rainy,182,24,162,24,128
+Cumin,Tamil Nadu,Rainy,169,33,143,33,248
+Turmeric,Tamil Nadu,Summer,182,31,111,49,366
+Cumin,Karnataka,Winter,326,19,128,29,395
+Pepper,Karnataka,Summer,312,43,185,43,110
+Chili,Telangana,Rainy,158,18,75,22,263
+Cumin,Telangana,Rainy,89,24,93,26,212
+Turmeric,Andhra,Summer,383,38,182,28,286
+Pepper,Telangana,Winter,222,31,119,21,394
+Cumin,Tamil Nadu,Rainy,212,24,167,49,331
+Chili,Karnataka,Rainy,261,31,117,7,326
+Chili,Telangana,Rainy,238,42,68,17,409
+Coriander,Telangana,Summer,173,34,69,20,197
+Coriander,Andhra,Rainy,236,38,162,41,154
+Turmeric,Andhra,Winter,156,19,189,49,210
+Cumin,Tamil Nadu,Rainy,29,16,96,20,251
+Cumin,Karnataka,Rainy,450,20,50,22,345
+Coriander,Andhra,Winter,411,35,139,28,168
+Cumin,Telangana,Rainy,56,16,191,40,411
+Cumin,Karnataka,Summer,242,27,113,49,388
+Chili,Karnataka,Summer,314,44,87,7,349
+Coriander,Telangana,Summer,23,25,86,1,135
+Pepper,Andhra,Winter,152,25,175,32,338
+Coriander,Telangana,Rainy,424,30,188,13,247
+Pepper,Karnataka,Summer,10,25,149,30,326
+Chili,Kerala,Winter,382,33,126,23,343
+Turmeric,Kerala,Rainy,63,29,52,19,436
+Cumin,Tamil Nadu,Winter,383,39,183,32,464
+Chili,Telangana,Summer,268,37,59,30,300
+Cumin,Telangana,Summer,153,37,54,29,253
+Turmeric,Tamil Nadu,Summer,480,30,187,49,172
+Turmeric,Tamil Nadu,Winter,450,25,179,45,300
+Chili,Tamil Nadu,Winter,468,36,62,29,395
+Turmeric,Karnataka,Summer,21,30,179,30,116
+Pepper,Telangana,Winter,339,22,133,16,228
+Turmeric,Karnataka,Summer,233,18,114,40,316
+Cumin,Tamil Nadu,Summer,281,22,112,19,160
+Cumin,Telangana,Rainy,465,18,150,18,203
+Cumin,Karnataka,Winter,367,38,122,1,141
+Cumin,Karnataka,Summer,469,39,66,14,124
+Pepper,Tamil Nadu,Summer,417,17,58,47,138
+Coriander,Telangana,Winter,165,17,192,2,390
+Chili,Tamil Nadu,Rainy,382,41,87,28,230
+Cumin,Telangana,Rainy,17,43,143,49,328
+Turmeric,Kerala,Summer,131,32,144,30,207
+Cumin,Andhra,Winter,357,43,98,38,271
+Turmeric,Andhra,Rainy,173,40,118,4,201
+Turmeric,Andhra,Winter,99,33,111,1,453
+Cumin,Tamil Nadu,Winter,145,33,127,8,111
+Pepper,Kerala,Summer,195,35,166,29,374
+Turmeric,Telangana,Rainy,325,19,169,39,200
+Turmeric,Karnataka,Summer,187,32,186,3,143
+Cumin,Telangana,Rainy,37,42,125,32,404
+Turmeric,Karnataka,Rainy,229,24,84,10,116
+Turmeric,Telangana,Rainy,366,43,50,10,429
+Cumin,Kerala,Rainy,50,36,89,19,156
+Cumin,Karnataka,Rainy,237,35,113,46,410
+Chili,Tamil Nadu,Winter,201,20,199,34,402
+Pepper,Telangana,Summer,420,15,109,33,111
+Pepper,Telangana,Winter,456,19,113,23,417
+Turmeric,Karnataka,Rainy,154,23,142,28,179
+Pepper,Tamil Nadu,Summer,210,26,121,32,315
+Turmeric,Tamil Nadu,Rainy,426,40,60,7,438
+Chili,Kerala,Summer,221,28,154,29,363
+Cumin,Tamil Nadu,Winter,470,16,63,8,248
+Cumin,Tamil Nadu,Summer,229,31,109,1,180
+Cumin,Tamil Nadu,Summer,249,28,79,3,314
+Pepper,Andhra,Summer,422,40,84,24,473
+Chili,Kerala,Summer,406,27,54,23,297
+Pepper,Telangana,Summer,55,41,132,8,299
+Pepper,Karnataka,Rainy,44,23,172,47,124
+Chili,Telangana,Summer,262,40,127,37,188
+Chili,Kerala,Summer,399,39,111,3,367
+Chili,Karnataka,Winter,91,29,181,33,242
+Chili,Kerala,Summer,380,39,138,28,158
+Cumin,Tamil Nadu,Winter,265,36,91,47,464
+Coriander,Karnataka,Rainy,206,29,138,8,125
+Coriander,Tamil Nadu,Summer,312,38,195,34,146
+Chili,Telangana,Winter,418,44,89,35,387
+Coriander,Telangana,Winter,459,25,121,32,365
+Coriander,Karnataka,Rainy,19,30,88,24,115
+Chili,Karnataka,Summer,321,43,153,14,298
+Coriander,Kerala,Summer,295,31,63,32,381
+Pepper,Kerala,Winter,251,40,81,46,185
+Turmeric,Tamil Nadu,Summer,260,18,174,43,349
+Turmeric,Karnataka,Winter,374,15,146,16,490
+Chili,Telangana,Summer,14,22,72,4,369
+Cumin,Kerala,Winter,128,31,112,37,434
+Chili,Kerala,Summer,298,17,192,21,216
+Cumin,Telangana,Rainy,383,43,194,14,106
+Turmeric,Kerala,Summer,74,34,102,31,236
+Chili,Tamil Nadu,Summer,155,29,153,48,470
+Pepper,Karnataka,Rainy,233,29,153,18,275
+Coriander,Telangana,Summer,248,38,88,7,427
+Cumin,Karnataka,Rainy,186,36,183,10,414
+Coriander,Kerala,Summer,276,28,116,7,314
+Coriander,Kerala,Winter,350,40,184,33,181
+Chili,Telangana,Winter,291,42,91,23,322
+Coriander,Tamil Nadu,Summer,72,37,64,21,471
+Pepper,Andhra,Summer,226,28,160,19,202
+Coriander,Telangana,Summer,351,38,82,48,372
+Chili,Andhra,Winter,324,16,87,19,113
+Pepper,Andhra,Summer,292,27,146,36,258
+Turmeric,Tamil Nadu,Winter,186,40,82,29,251
+Coriander,Andhra,Rainy,470,28,135,18,207
+Chili,Andhra,Winter,426,41,115,2,287
+Turmeric,Tamil Nadu,Winter,107,38,59,1,400
+Turmeric,Andhra,Rainy,114,33,54,47,197
+Cumin,Andhra,Winter,108,21,172,5,230
+Pepper,Andhra,Summer,394,17,123,20,392
+Coriander,Telangana,Summer,414,29,146,11,270
+Chili,Telangana,Winter,320,37,167,42,282
+Cumin,Telangana,Summer,15,28,87,2,463
+Pepper,Tamil Nadu,Winter,485,25,190,3,138
+Cumin,Kerala,Summer,474,29,96,23,114
+Pepper,Andhra,Summer,206,42,158,12,475
+Pepper,Andhra,Winter,360,27,64,20,103
+Coriander,Tamil Nadu,Summer,142,32,185,5,448
+Pepper,Andhra,Winter,367,40,54,37,496
+Cumin,Telangana,Summer,268,20,96,38,309
+Pepper,Kerala,Summer,446,17,117,30,260
+Coriander,Karnataka,Rainy,32,33,125,9,115
+Coriander,Andhra,Rainy,494,29,179,34,207
+Cumin,Telangana,Winter,62,39,144,44,481
+Turmeric,Karnataka,Rainy,174,37,164,35,410
+Turmeric,Kerala,Winter,211,19,85,22,326
+Pepper,Karnataka,Rainy,467,42,75,44,269
+Chili,Telangana,Summer,92,24,92,24,133
+Pepper,Karnataka,Winter,154,21,76,17,350
+Cumin,Tamil Nadu,Winter,94,39,118,10,346
+Cumin,Karnataka,Summer,87,31,197,30,368
+Cumin,Andhra,Winter,466,21,60,46,240
+Cumin,Andhra,Winter,375,36,123,23,373
+Cumin,Tamil Nadu,Rainy,10,40,153,32,195
+Coriander,Telangana,Winter,60,44,87,17,326
+Turmeric,Andhra,Summer,182,26,183,17,478
+Cumin,Kerala,Rainy,214,39,72,14,138
+Chili,Andhra,Rainy,269,31,96,9,401
+Chili,Andhra,Summer,455,27,139,40,128
+Chili,Telangana,Summer,458,34,95,2,417
+Chili,Karnataka,Rainy,378,39,156,45,344
+Coriander,Andhra,Winter,497,18,189,25,335
+Chili,Tamil Nadu,Rainy,297,24,190,39,284
+Cumin,Karnataka,Summer,43,17,153,9,371
+Pepper,Kerala,Rainy,357,23,160,22,335
+Chili,Telangana,Summer,104,27,153,43,338
+Coriander,Kerala,Rainy,81,32,109,46,476
+Coriander,Karnataka,Winter,48,29,149,4,365
+Chili,Karnataka,Rainy,163,18,117,26,458
+Pepper,Karnataka,Rainy,259,29,182,29,439
+Chili,Kerala,Summer,171,36,169,45,488
+Coriander,Karnataka,Summer,447,16,86,34,164
+Turmeric,Kerala,Summer,127,29,121,23,276
+Cumin,Karnataka,Rainy,268,22,176,37,102
+Coriander,Tamil Nadu,Winter,388,22,155,11,241
+Chili,Karnataka,Summer,315,31,141,6,475
+Cumin,Kerala,Summer,277,26,80,18,257
+Chili,Andhra,Rainy,458,33,171,21,423
+Chili,Karnataka,Summer,63,24,186,42,245
+Turmeric,Andhra,Winter,245,23,100,36,392
+Cumin,Tamil Nadu,Winter,398,19,78,41,252
+Cumin,Telangana,Summer,487,20,89,38,292
+Turmeric,Tamil Nadu,Summer,231,34,90,34,172
+Coriander,Karnataka,Rainy,260,40,60,17,498
+Chili,Andhra,Winter,322,16,50,37,404
+Pepper,Andhra,Winter,410,41,95,25,476
+Chili,Kerala,Summer,121,38,150,38,443
+Chili,Andhra,Rainy,264,41,198,12,239
+Coriander,Kerala,Winter,312,27,139,23,286
+Chili,Telangana,Winter,416,20,159,42,392
+Turmeric,Karnataka,Rainy,216,19,106,22,160
+Turmeric,Kerala,Rainy,238,39,50,21,479
+Cumin,Telangana,Winter,350,15,112,27,297
+Pepper,Andhra,Winter,407,35,104,31,394
+Chili,Andhra,Rainy,75,36,164,6,418
+Chili,Telangana,Winter,84,35,192,27,401
+Coriander,Andhra,Summer,444,20,198,40,443
+Turmeric,Telangana,Summer,112,20,102,34,110
+Pepper,Kerala,Rainy,431,37,186,12,161
+Cumin,Kerala,Rainy,201,30,106,45,432
+Turmeric,Telangana,Rainy,261,18,166,7,325
+Cumin,Kerala,Summer,235,44,84,10,252
+Coriander,Kerala,Winter,303,25,112,45,298
+Coriander,Kerala,Summer,315,44,74,17,151
+Chili,Tamil Nadu,Winter,107,44,139,26,359
+Pepper,Karnataka,Summer,347,44,124,21,158
+Cumin,Andhra,Winter,295,38,87,28,171
